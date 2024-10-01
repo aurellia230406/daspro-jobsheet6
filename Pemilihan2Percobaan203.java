@@ -20,8 +20,6 @@ public class Pemilihan2Percobaan203 {
         member = input.nextLine();
         System.out.println("--------------------------------------");
 
-        
-
         if (member.equalsIgnoreCase("n")) { 
             if (pilihan_menu == 1) {
                 harga = 14000;
